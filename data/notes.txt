@@ -1,0 +1,1 @@
+- .. rename as "showcase-go-basics"
